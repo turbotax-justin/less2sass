@@ -10,7 +10,7 @@
   "homepage": "http://erickryski.com",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ekryski/less2sass.git"
+    "url": "git@github.com:turbotax-justin/less2sass.git"
   },
   "engines": {
     "node": "7.4.0",
